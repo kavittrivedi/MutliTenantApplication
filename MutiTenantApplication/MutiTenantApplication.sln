@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutiTenantApplicationApi", "MutiTenantApplicationApi\MutiTenantApplicationApi.csproj", "{D13A133A-0088-498C-8E85-079B71F30658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutiTenantApplication", "MutiTenantApplication\MutiTenantApplication.csproj", "{CC51EBA4-1A4A-4E29-8741-FC6D52679690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13A133A-0088-498C-8E85-079B71F30658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13A133A-0088-498C-8E85-079B71F30658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13A133A-0088-498C-8E85-079B71F30658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13A133A-0088-498C-8E85-079B71F30658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC51EBA4-1A4A-4E29-8741-FC6D52679690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC51EBA4-1A4A-4E29-8741-FC6D52679690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC51EBA4-1A4A-4E29-8741-FC6D52679690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC51EBA4-1A4A-4E29-8741-FC6D52679690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F43489A-C480-4CFD-ABBD-00580A5F12EB}
+	EndGlobalSection
+EndGlobal
